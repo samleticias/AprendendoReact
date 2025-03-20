@@ -1,3 +1,6 @@
+// Não posso importar aqui!
+// O import foi feito dentro de _app.js
+
 export default function integracao() {
     return (
         <div className="integracao1">
